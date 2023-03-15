@@ -4,8 +4,8 @@
 
 $servername = "localhost";
 $username = "root";
-$dbpassword = "369;'0/";
-$dbname = "smce-crud" ;
+$dbpassword = "your-password";
+$dbname = "your-db-name" ;
 
 /* Attempt to connect to MySQL database */
 $mysqli = new mysqli($servername, $username, $dbpassword, $dbname);
